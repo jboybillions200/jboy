@@ -42,7 +42,7 @@ let date = computed(() => new Date().getFullYear())
             </div>
         </div>
         <div class="text-center py-2 text-gray-800 font-semibold text-xs md:text-sm">
-            <p> &commat; {{ date }} INNAANTU MEMORIAL SCHOOL. All Rights Reserved be were of scammers</p>
+            <p> &commat; {{ date }} INNAANTU MEMORIAL SCHOOL. All Rights Reserved</p>
         </div>
     </footer>
 </template>
